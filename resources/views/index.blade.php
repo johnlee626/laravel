@@ -9,7 +9,6 @@
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
         <!-- Styles -->
         <style>
@@ -82,34 +81,6 @@
                 <div class="title m-b-md">
                     Laravel
                 </div>
-				
-				<div>
-					<ul class="nav nav-tabs">
-						<li class="active"><a data-toggle="tab" href="#home">Home</a></li>
-						<li><a data-toggle="tab" href="#menu1">Menu 1</a></li>
-						<li><a data-toggle="tab" href="#menu2">Menu 2</a></li>
-						<li><a data-toggle="tab" href="#menu3">Menu 3</a></li>
-					</ul>
-
-					<div class="tab-content">
-						<div id="home" class="tab-pane fade in active">
-							<h3>HOME</h3>
-							<p>Some content.</p>
-						</div>
-						<div id="menu1" class="tab-pane fade">
-							<h3>Menu 1</h3>
-							<p>Some content in menu 1.</p>
-						</div>
-						<div id="menu2" class="tab-pane fade">
-							<h3>Menu 2</h3>
-							<p>Some content in menu 2.</p>
-						</div>
-						<div id="menu3" class="tab-pane fade">
-							<h3>Menu 3</h3>
-							<p>Some content in menu 3.</p>
-						</div>
-					</div>
-				</div>
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Documentation</a>
@@ -120,8 +91,5 @@
                 </div>
             </div>
         </div>
-		
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
     </body>
 </html>
